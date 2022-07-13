@@ -1,0 +1,51 @@
+{
+  "recordTitle": "Record Title",
+  "documents": [
+    {
+      "customerName": "Adam Lowry",
+      "type": "Bill",
+      "serviceAddress":"2 Sample St Nowhere, NSW",
+      "account": "1234567890-1",
+      "date": "12/12/2022",
+      "due": "13/01/2023",
+      "amount":"$324.09",
+      "docID":""
+    },    {
+      "customerName": "Adam Lowry",
+      "type": "Bill",
+      "serviceAddress":"2 Sample St Nowhere, NSW",
+      "account": "1234567890-1",
+      "date": "12/12/2022",
+      "due": "13/01/2023",
+      "amount":"$324.09",
+      "docID":""
+    },    {
+      "customerName": "Adam Lowry",
+      "type": "Bill",
+      "serviceAddress":"2 Sample St Nowhere, NSW",
+      "account": "1234567890-1",
+      "date": "12/12/2022",
+      "due": "13/01/2023",
+      "amount":"$324.09",
+      "docID":""
+    },    {
+      "customerName": "Adam Lowry",
+      "type": "Bill",
+      "serviceAddress":"2 Sample St Nowhere, NSW",
+      "account": "1234567890-1",
+      "date": "12/12/2022",
+      "due": "13/01/2023",
+      "amount":"$324.09",
+      "docID":""
+    },    {
+      "customerName": "Adam Lowry",
+      "type": "Bill",
+      "serviceAddress":"2 Brown Circuit North Meadowvale Heights, NSW",
+      "account": "1234567890-1",
+      "date": "12/12/2022",
+      "due": "13/01/2023",
+      "amount":"$324.09",
+      "docID":""
+    },
+  ]
+}
